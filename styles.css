@@ -1,19 +1,26 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #F5F5F5;
 }
 
 h1 {
   font-size: 5rem;
-  color: #DBEDF3;
+  color: #F05454;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 3px 0 #121212;
 
 }
 
 footer {
-  color: #DBEDF3;
+  color: #30475E;
   font-family: sans-serif;
+  opacity: 70%;
+}
+
+.paraText {
+  color: #30475E;
+  font-family: sans-serif;
+  opacity: 70%;
 }
 
 .w {
