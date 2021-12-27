@@ -17,6 +17,10 @@ footer {
   opacity: 70%;
 }
 
+.score {
+  font-size: 20px;
+}
+
 .paraText {
   color: #30475E;
   font-family: sans-serif;
@@ -83,6 +87,6 @@ footer {
   width: 150px;
   height: 150px;
   text-align: center;
-  margin: 10px;
+  margin: 10px 10px 0px 10px;
   background-color: white;
 }
